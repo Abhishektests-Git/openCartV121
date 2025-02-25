@@ -1,0 +1,38 @@
+2025-02-25 13:35:37 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 13:39:26 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 13:40:44 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 13:40:46 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 13:45:15 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 13:45:17 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 13:45:44 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 13:45:46 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 13:46:07 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 13:46:09 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:01:59 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:02:02 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:04:42 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:04:45 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:05:09 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:05:11 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:08:10 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:08:13 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:10:52 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:10:55 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:11:48 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:11:51 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:12:35 INFO  TC_001_AccountRegistrationTest:17 - ******* Starting TC_001_AccountRegistrationTest **********
+2025-02-25 14:12:36 INFO  TC_001_AccountRegistrationTest:21 - ******* clicked on MyAccountLink **********
+2025-02-25 14:12:36 INFO  TC_001_AccountRegistrationTest:24 - ******* Clicked On RegisterLink **********
+2025-02-25 14:12:36 INFO  TC_001_AccountRegistrationTest:27 - ******* Providing customer details **********
+2025-02-25 14:12:38 INFO  TC_001_AccountRegistrationTest:51 - ******* Finished TC_001_AccountRegistrationTest **********
+2025-02-25 14:12:42 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:12:44 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:13:37 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:13:40 INFO  TC_002_LoginTest:36 - *****Login Test ended******
+2025-02-25 14:13:44 INFO  TC_001_AccountRegistrationTest:17 - ******* Starting TC_001_AccountRegistrationTest **********
+2025-02-25 14:13:45 INFO  TC_001_AccountRegistrationTest:21 - ******* clicked on MyAccountLink **********
+2025-02-25 14:13:46 INFO  TC_001_AccountRegistrationTest:24 - ******* Clicked On RegisterLink **********
+2025-02-25 14:13:46 INFO  TC_001_AccountRegistrationTest:27 - ******* Providing customer details **********
+2025-02-25 14:13:47 INFO  TC_001_AccountRegistrationTest:51 - ******* Finished TC_001_AccountRegistrationTest **********
+2025-02-25 14:13:51 INFO  TC_002_LoginTest:15 - *****Login Test started******
+2025-02-25 14:13:54 INFO  TC_002_LoginTest:36 - *****Login Test ended******
